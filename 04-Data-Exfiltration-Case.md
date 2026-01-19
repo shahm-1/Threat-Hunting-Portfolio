@@ -1,13 +1,3 @@
-<p align="center">
-  <img
-    src="https://github.com/user-attachments/assets/230d5b85-43ad-4845-82d1-2a1ca54f9eea"
-    width="1200"
-    alt="Threat Hunt Cover Image"
-  />
-</p>
-
----
-
 ## 🎭 Scenario Context
 
 An employee named **John Doe**, working in a sensitive department, was recently placed on a **Performance Improvement Plan (PIP)**. Following an emotional reaction to the decision, management raised concerns that John may attempt to **steal proprietary company information and resign**.
