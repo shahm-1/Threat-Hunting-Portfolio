@@ -1,5 +1,3 @@
----
-
 ## 🎭 Scenario Context
 
 The server team observed a **significant network performance degradation** affecting several older devices within the internal **10.0.0.0/16** network. After ruling out external causes such as DDoS attacks, attention shifted to the possibility of **malicious or unauthorized internal activity**.
