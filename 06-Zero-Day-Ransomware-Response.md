@@ -1,5 +1,3 @@
----
-
 ## 🎭 Scenario Context
 
 A new ransomware strain named **PwnCrypt** was recently reported in the news. The ransomware leverages a **PowerShell-based payload** to encrypt files using **AES-256**, targeting directories such as `C:\Users\Public\Desktop` and appending a `.pwncrypt` extension to affected files (e.g., `hello.txt` → `hello.pwncrypt.txt`).
