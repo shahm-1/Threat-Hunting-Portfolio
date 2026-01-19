@@ -119,8 +119,7 @@ DeviceFileEvents
 | order by Timestamp desc
 ~~~
 
-<img width="1125" height="298" alt="image" src="https://github.com/user-attachments/assets/2eec9c1e-886a-4200-86d9-48f0316e974b" />
-
+<img width="1125" height="298" alt="532623863-2eec9c1e-886a-4200-86d9-48f0316e974b" src="https://github.com/user-attachments/assets/9d1af2d7-7989-4869-a805-b6ecf1b852d9" />
 
 ---
 
@@ -138,7 +137,7 @@ DeviceProcessEvents
 | project Timestamp, DeviceName, ActionType, FileName, ProcessCommandLine
 ~~~
 
-<img width="1125" height="697" alt="image" src="https://github.com/user-attachments/assets/49cc5294-75db-4c0d-9ed1-6bfbd8f0d28c" />
+<img width="1125" height="697" alt="532626603-49cc5294-75db-4c0d-9ed1-6bfbd8f0d28c" src="https://github.com/user-attachments/assets/afa6cfb9-f51a-4fbd-a452-9ee0f013cbc4" />
 
 ---
 
