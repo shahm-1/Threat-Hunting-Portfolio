@@ -1,13 +1,3 @@
-<p align="center">
-  <img
-    src="https://github.com/user-attachments/assets/c013b548-ee3d-4169-9392-bb9f36dbcc31"
-    width="1200"
-    alt="Threat Hunt Cover Image"
-  />
-</p>
-
----
-
 ## 🎭 Scenario Context
 
 During routine maintenance, the security team was tasked with investigating any virtual machines in the **shared services cluster** (handling DNS, Domain Services, DHCP, etc.) that may have been **mistakenly exposed to the public internet**.
