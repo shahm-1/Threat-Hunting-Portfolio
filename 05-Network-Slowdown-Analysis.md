@@ -122,7 +122,7 @@ DeviceNetworkEvents
 | order by ConnectionCount
 ~~~
 
-<img width="975" height="291" alt="image" src="https://github.com/user-attachments/assets/4a02ef7b-dd2f-4978-84c4-6fb988850662" />
+<img width="975" height="291" alt="532620060-4a02ef7b-dd2f-4978-84c4-6fb988850662" src="https://github.com/user-attachments/assets/6517050b-88ec-4c71-9929-3137ce876895" />
 
 ---
 
@@ -138,8 +138,7 @@ DeviceNetworkEvents
 | order by Timestamp desc
 ~~~
 
-<img width="109" height="559" alt="image" src="https://github.com/user-attachments/assets/ada38279-5291-4c64-964c-5d78f448dddb" />
-
+<img width="109" height="559" alt="532620148-ada38279-5291-4c64-964c-5d78f448dddb" src="https://github.com/user-attachments/assets/605a1afc-d5cb-410b-9431-c7c20c9b77c1" />
 
 **Finding:** Chronological review showed sequential port targeting, indicating active scanning.
 
@@ -162,7 +161,7 @@ DeviceProcessEvents
 **Finding:** PowerShell script `portscan.ps1` executed at  
 `2026-01-05T20:37:14.1934562Z`.
 
-<img width="975" height="329" alt="image" src="https://github.com/user-attachments/assets/f5a99043-77a5-48cf-8efd-267f00a14659" />
+<img width="975" height="329" alt="532620387-f5a99043-77a5-48cf-8efd-267f00a14659" src="https://github.com/user-attachments/assets/ff4cb7a2-5af8-44ce-bbed-57042748f437" />
 
 ---
 
@@ -178,7 +177,7 @@ DeviceFileEvents
 | order by Timestamp desc
 ~~~
 
-<img width="605" height="564" alt="image" src="https://github.com/user-attachments/assets/f5886cc3-8403-447d-8a87-d32023663a38" />
+<img width="605" height="564" alt="532620429-f5886cc3-8403-447d-8a87-d32023663a38" src="https://github.com/user-attachments/assets/564d2bc6-db3f-45bf-8901-347e85614f7d" />
 
 **Finding:**  
 - File: `portscan.ps1`  
@@ -223,7 +222,7 @@ Script created and launched under SYSTEM account.
 - Maintained isolation due to abnormal SYSTEM activity  
 - Submitted ticket to re-image the device  
 
-<img width="825" height="247" alt="image" src="https://github.com/user-attachments/assets/a48fe1fd-6353-490e-baa5-727945002abd" />
+<img width="825" height="247" alt="532620586-a48fe1fd-6353-490e-baa5-727945002abd" src="https://github.com/user-attachments/assets/241e2dee-e784-4bd4-a429-3338ae1ed509" />
 
 ---
 
