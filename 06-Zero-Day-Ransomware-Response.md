@@ -67,7 +67,7 @@ DeviceFileEvents
 | order by Timestamp desc
 ~~~
 
-<img width="1125" height="362" alt="image" src="https://github.com/user-attachments/assets/702caec1-b870-4e4b-a0d4-76c8c4f66550" />
+<img width="1125" height="362" alt="532628471-702caec1-b870-4e4b-a0d4-76c8c4f66550" src="https://github.com/user-attachments/assets/06b4ea61-e00d-4324-804d-82b44803fe23" />
 
 ---
 
@@ -86,7 +86,7 @@ DeviceFileEvents
 | project Timestamp, DeviceName, ActionType, FileName
 ~~~
 
-<img width="1125" height="427" alt="image" src="https://github.com/user-attachments/assets/03976b9d-ec2b-4e6a-9001-d115a47054e5" />
+<img width="1125" height="427" alt="532628440-03976b9d-ec2b-4e6a-9001-d115a47054e5" src="https://github.com/user-attachments/assets/6fa3bfea-fc44-4bc0-8fba-f81284b8d3a3" />
 
 ---
 
@@ -94,7 +94,7 @@ DeviceFileEvents
 
 I logged into the suspected computer and observed the PowerShell script that was used to execute the ransomware.
 
-<img width="1125" height="452" alt="image" src="https://github.com/user-attachments/assets/ba099ec7-639a-473d-aa4a-1024bc067bd0" />
+<img width="1125" height="452" alt="532628391-ba099ec7-639a-473d-aa4a-1024bc067bd0" src="https://github.com/user-attachments/assets/187f3657-0aac-4f36-abd0-9ec6354cd8b1" />
 
 ---
 
@@ -113,7 +113,7 @@ DeviceProcessEvents
 | project Timestamp, DeviceName, ActionType, InitiatingProcessCommandLine, AccountName
 ~~~
 
-<img width="1125" height="211" alt="image" src="https://github.com/user-attachments/assets/9ff72e5d-511d-49e9-85c3-b1bc3dd3e995" />
+<img width="1125" height="211" alt="532628350-9ff72e5d-511d-49e9-85c3-b1bc3dd3e995" src="https://github.com/user-attachments/assets/3adafc6c-8e3b-400f-8303-86d61b695ad4" />
 
 ---
 
