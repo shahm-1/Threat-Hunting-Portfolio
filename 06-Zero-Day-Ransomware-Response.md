@@ -1,11 +1,3 @@
-<p align="center">
-  <img
-    src="https://github.com/user-attachments/assets/a1eca134-9d75-40d1-8c7a-cf4da836d22b"
-    width="1200"
-    alt="Threat Hunt Cover Image"
-  />
-</p>
-
 ---
 
 ## 🎭 Scenario Context
