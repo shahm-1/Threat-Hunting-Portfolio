@@ -38,8 +38,8 @@ DeviceFileEvents
 | order by Timestamp desc  
 | project Timestamp, DeviceName, ActionType, FileName, FolderPath, SHA256, Account = InitiatingProcessAccountName
 ```
-<img width="1551" height="822" alt="Query 1" src="https://github.com/user-attachments/assets/162f4faa-9caf-47d4-a777-c6c83c0c1d42" />
 
+<img width="1551" height="822" alt="533671073-162f4faa-9caf-47d4-a777-c6c83c0c1d42" src="https://github.com/user-attachments/assets/3d46b032-40c4-4733-9575-d5c1faa7481a" />
 
 ---
 
@@ -56,8 +56,8 @@ DeviceProcessEvents
 | where ProcessCommandLine contains "tor-browser-windows-x86_64-portable-15.0.3.exe"  
 | project Timestamp, DeviceName, AccountName, ActionType, FileName, FolderPath, SHA256, ProcessCommandLine
 ```
-<img width="1553" height="835" alt="Query 2" src="https://github.com/user-attachments/assets/1ab85697-c24e-46e2-b436-b9214c42f068" />
 
+<img width="1553" height="835" alt="533671110-1ab85697-c24e-46e2-b436-b9214c42f068" src="https://github.com/user-attachments/assets/f7dbfb38-0a86-43ae-8497-fb3646df48b3" />
 
 ---
 
@@ -74,8 +74,8 @@ DeviceProcessEvents
 | project Timestamp, DeviceName, AccountName, ActionType, FileName, FolderPath, SHA256, ProcessCommandLine  
 | order by Timestamp desc
 ```
-<img width="1753" height="761" alt="Query 3" src="https://github.com/user-attachments/assets/2b369791-69ac-4db0-9c1e-c6d46b9535db" />
 
+<img width="1753" height="761" alt="533671150-2b369791-69ac-4db0-9c1e-c6d46b9535db" src="https://github.com/user-attachments/assets/25e56a8e-7def-45e1-969f-ec1552f75ce6" />
 
 ---
 
@@ -94,8 +94,8 @@ DeviceNetworkEvents
 | project Timestamp, DeviceName, InitiatingProcessAccountName, ActionType, RemoteIP, RemotePort, RemoteUrl, InitiatingProcessFileName, InitiatingProcessFolderPath  
 | order by Timestamp desc
 ```
-<img width="1808" height="803" alt="Query 4" src="https://github.com/user-attachments/assets/8acbf13e-6890-4364-8b1f-ab3eae1bff69" />
 
+<img width="1808" height="803" alt="533671181-8acbf13e-6890-4364-8b1f-ab3eae1bff69" src="https://github.com/user-attachments/assets/29937210-28cf-4a03-936f-8bc1b89145e9" />
 
 ---
 
