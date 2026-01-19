@@ -141,7 +141,7 @@ DeviceLogonEvents
 | order by Attempts
 ~~~
 
-<img width="1125" height="480" alt="image" src="https://github.com/user-attachments/assets/fc7c7a04-97bd-4b01-9847-057268b72fc4" />
+<img width="1125" height="480" alt="532615874-fc7c7a04-97bd-4b01-9847-057268b72fc4" src="https://github.com/user-attachments/assets/d364287d-6eeb-493a-9926-47831a979832" />
 
 ---
 
@@ -199,7 +199,7 @@ DeviceLogonEvents
 | summarize Logincount = count() by DeviceName, ActionType, AccountName, RemoteIP
 ~~~
 
-<img width="1125" height="306" alt="image" src="https://github.com/user-attachments/assets/cbb3135f-01f0-4c05-9e97-1e72a9597784" />
+<img width="1125" height="306" alt="532615972-cbb3135f-01f0-4c05-9e97-1e72a9597784" src="https://github.com/user-attachments/assets/345f30be-6e1d-47d2-ab5e-b33e0cf500d7" />
 
 ---
 
