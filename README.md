@@ -23,12 +23,12 @@ I build realistic enterprise environments, simulate attacks (or investigate live
 | Investigation | Focus Area | Key Skills |
 |---------------|------------|------------|
 | **[Azuki Import/Export](./01-Azuki-Import-Export-Investigation/)** | Network & Data Movement | Traffic analysis, data staging detection, process correlation |
-| **[Internet-Exposed VM: Brute Force](02-Internet-Exposed-Brute-Force/)** | Authentication Attacks | Failed login analysis, IP reputation, threat patterns |
-| **[Tor Browser Investigation](./03-Tor-Browser-Investigation/)** | Endpoint Detection | Process tracking, persistence mechanisms, network indicators |
-| **[Data Exfiltration Case](./04-Data-Exfiltration-Case/)** | Insider Threat | File access monitoring, lateral movement, staging analysis |
-| **[Network Slowdown Analysis](./05-Network-Slowdown-Analysis/)** | Performance Anomalies | Traffic baseline deviation, compromised endpoint identification |
-| **[Zero-Day Ransomware Response](./06-Zero-Day-Ransomware-Response/)** | Incident Response | Containment, evidence preservation, rapid IOC development |
-| **[NIST 800-61 IR Workflow](./07-NIST-Incident-Response-Workflow/)** | IR Framework | Full lifecycle: detection → recovery → lessons learned |
+| **[Internet-Exposed VM: Brute Force](./02-Internet-Exposed-Brute-Force.md)** | Authentication Attacks | Failed login analysis, IP reputation, threat patterns |
+| **[Tor Browser Investigation](./03-Tor-Browser-Investigation.md)** | Endpoint Detection | Process tracking, persistence mechanisms, network indicators |
+| **[Data Exfiltration Case](./04-Data-Exfiltration-Case.md)** | Insider Threat | File access monitoring, lateral movement, staging analysis |
+| **[Network Slowdown Analysis](./05-Network-Slowdown-Analysis.md)** | Performance Anomalies | Traffic baseline deviation, compromised endpoint identification |
+| **[Zero-Day Ransomware Response](./06-Zero-Day-Ransomware-Response.md)** | Incident Response | Containment, evidence preservation, rapid IOC development |
+| **[NIST 800-61 IR Workflow](./07-NIST-Incident-Response-Workflow.md)** | IR Framework | Full lifecycle: detection → recovery → lessons learned |
 
 **→ Each folder contains a complete investigation report with timeline, evidence, and findings.**
 
