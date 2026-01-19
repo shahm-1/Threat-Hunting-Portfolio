@@ -2,9 +2,6 @@
 
 *End-to-end investigation of brute-force login attempts against Azure virtual machines using Microsoft Sentinel, Microsoft Defender for Endpoint, and KQL, aligned to the NIST 800-61 incident response lifecycle.*
 
-
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/02310890-377f-4b1e-afa5-9864319ac1c3" />
-
 ---
 
 ## 📌 Scenario Context
