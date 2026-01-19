@@ -62,7 +62,7 @@ DeviceLogonEvents
 |order by NumberOfFailures desc
 ~~~
 
-<img width="883" height="484" alt="image" src="https://github.com/user-attachments/assets/3970c16c-8fd2-499c-b749-ba16b3ce6ee7" />
+<img width="883" height="484" alt="532955386-3970c16c-8fd2-499c-b749-ba16b3ce6ee7" src="https://github.com/user-attachments/assets/5bf3dda1-4d08-4210-9b31-38534ab3d2c6" />
 
 ### 📊 Affected Systems & Indicators
 
@@ -73,14 +73,13 @@ DeviceLogonEvents
 | 112.199.44.195   | daes-vm-final-l                                                  | LogonFailed | 39              |
 | 218.145.181.48   | linuxvm--cd.p2zfvso05mlezjev3ck4vqd3kd.cx.internal.cloudapp.net  | LogonFailed | 45              |
 
-
-<img width="428" height="641" alt="Alert Triggered-Incident Created-AssignOwner-StatusActive" src="https://github.com/user-attachments/assets/ba1a6d14-7ad3-4418-84be-6aa54985e5e7" />
+<img width="428" height="641" alt="532969761-ba1a6d14-7ad3-4418-84be-6aa54985e5e7" src="https://github.com/user-attachments/assets/467e9fe0-6809-4c6a-911e-55aefbc9b72c" />
 
 This triggered an Incident alert that I created in Sentinel through a Scheduled Rule accompanied by the associated MITRE ATT&CK TTP'S.
 
 ---
 
-<img width="1520" height="868" alt="Investigation" src="https://github.com/user-attachments/assets/7b58358a-8e98-4f9f-8d47-6e19068b6b2b" />
+<img width="1520" height="868" alt="532956176-7b58358a-8e98-4f9f-8d47-6e19068b6b2b" src="https://github.com/user-attachments/assets/4f966496-3a77-4c78-9468-62b945d84860" />
 
 The activity pattern was consistent with automated brute-force attempts.
 
@@ -100,7 +99,7 @@ DeviceLogonEvents
 
 No successful authentication events were identified from the suspicious IP addresses.
 
-<img width="1211" height="549" alt="No Succesful Logins" src="https://github.com/user-attachments/assets/e0665d4e-dc90-4fe5-b3fe-fd9c20d21f0f" />
+<img width="1211" height="549" alt="532957099-e0665d4e-dc90-4fe5-b3fe-fd9c20d21f0f" src="https://github.com/user-attachments/assets/ea1b3752-d3ba-49bd-a347-64f1baa6cf0f" />
 
 This confirmed the incident as a **failed brute-force attack with no evidence of compromise**.
 
@@ -128,16 +127,13 @@ Immediate containment actions were taken to prevent continued attack attempts an
   - Restricted inbound access to a trusted IP  
   - Recommended **Azure Bastion** for secure administration
 
-<img width="560" height="663" alt="Isolate the Devices" src="https://github.com/user-attachments/assets/86000abb-5d73-48b1-ac7d-7c4c47d39c56" />
+<img width="560" height="663" alt="532956922-86000abb-5d73-48b1-ac7d-7c4c47d39c56" src="https://github.com/user-attachments/assets/034233c4-2ee0-483e-91b2-0d927e14d3ee" />
 
 ---
 
-<img width="659" height="867" alt="Only Allow RDP connection with specific source IP" src="https://github.com/user-attachments/assets/2169fad2-f41c-4735-8429-5e5272fada6c" />
-
-
+<img width="659" height="867" alt="532957563-2169fad2-f41c-4735-8429-5e5272fada6c" src="https://github.com/user-attachments/assets/95325ff8-2e9b-47c3-8b32-70c01ded1e47" />
 
 These actions immediately stopped external brute-force attempts.
-
 
 ---
 
